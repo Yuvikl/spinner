@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">spinner</string>
+    <string-array name="course">
+        <item>C</item>
+        <item>C++</item>
+        <item>Java</item>
+    </string-array>
+</resources>
